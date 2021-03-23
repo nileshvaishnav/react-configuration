@@ -1,0 +1,13 @@
+
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "esnext",
+    "jsx": "react",
+    "baseUrl": "./src",
+    "paths": {
+      "@/components/*": ["components/*"],
+    },
+  },
+  "include": ["./src/**/*"],
+}
